@@ -53,14 +53,15 @@ Frontend using Bootstrap, HTML, CSS, JavaScript
 
 ## 📈 GitHub Stats
 
-![Ashish's GitHub stats](https://github-readme-stats.vercel.app/api?username=ashishmore2003&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ashishmore2003&show_icons=true&theme=nightowl&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ashishmore2003&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ashishmore2003&layout=compact&theme=nightowl&hide_border=true)
+
 ---
 
 ## 🔥 GitHub Streak
 
-![GitHub Streak](https://streak-stats.demolab.com?user=ashishmore2003&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=ashishmore2003&theme=nightowl&hide_border=true)
 
 ---
 
