@@ -61,7 +61,7 @@ Frontend using Bootstrap, HTML, CSS, JavaScript
 
 ## 🔥 GitHub Streak
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=YOUR_USERNAME)
+![GitHub Streak](https://streak-stats.demolab.com?user=ashishmore2003&theme=tokyonight&hide_border=true)
 
 ---
 
