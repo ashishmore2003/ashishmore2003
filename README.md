@@ -53,10 +53,9 @@ Frontend using Bootstrap, HTML, CSS, JavaScript
 
 ## 📈 GitHub Stats
 
-![Ashish's GitHub stats](https://github-readme-stats.vercel.app/api?username=ashishmore2003&show_icons=true)
+![Ashish's GitHub stats](https://github-readme-stats.vercel.app/api?username=ashishmore2003&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ashishmore2003&layout=compact)
-
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ashishmore2003&layout=compact&theme=tokyonight)
 ---
 
 ## 🔥 GitHub Streak
