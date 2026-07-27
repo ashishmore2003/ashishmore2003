@@ -50,16 +50,17 @@ Built using HTML and CSS
 Frontend using Bootstrap, HTML, CSS, JavaScript
 
 ---
-
 ## 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=ashishmore2003&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ashishmore2003&show_icons=true&theme=tokyonight&cache_seconds=1800)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ashishmore2003&layout=compact&theme=radical)
+## 💻 Top Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ashishmore2003&layout=compact&theme=tokyonight)
 
 ## 🔥 GitHub Streak
 
-![](https://streak-stats.demolab.com?user=ashishmore2003&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com?user=ashishmore2003&theme=tokyonight)
 
 ---
 
