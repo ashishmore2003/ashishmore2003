@@ -50,17 +50,6 @@ Built using HTML and CSS
 Frontend using Bootstrap, HTML, CSS, JavaScript
 
 ---
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ashishmore2003&show_icons=true&theme=radical&hide_border=true" />
-</p>
-
-## 💻 Top Languages
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashishmore2003&layout=compact&theme=radical&hide_border=true" />
-</p>
 
 ## 🔥 GitHub Streak
 
